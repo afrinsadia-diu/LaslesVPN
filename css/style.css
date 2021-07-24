@@ -1,0 +1,8 @@
+body{
+    background-color: #e7e7e7fd;
+    font-family: 'Poppins', sans-serif;
+}
+.vl {
+    border-left: 2px solid rgb(207, 206, 206);
+    height: 80px;
+}
