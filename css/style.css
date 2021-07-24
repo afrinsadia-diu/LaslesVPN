@@ -4,5 +4,8 @@ body{
 }
 .vl {
     border-left: 2px solid rgb(207, 206, 206);
-    height: 80px;
+   
+}
+.btn-outline-danger:hover {
+    color: #fff!important;
 }
